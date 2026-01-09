@@ -1,0 +1,4 @@
+cKu5LMPVNVCQ0XXI
+padmasrisundarraajan_db_user
+
+mongodb+srv://padmasrisundarraajan_db_user:cKu5LMPVNVCQ0XXI@node-5g-communication.pzpsfew.mongodb.net/?appName=Node-5G-Communication
