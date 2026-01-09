@@ -1,7 +1,1 @@
-// echo "# node-5G-communication" >> README.md
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/padma4-sri/node-5G-communication.git
-// git push -u origin main
+// const index = require('./src/index');
