@@ -1,13 +1,6 @@
-const mongoose = require("mongoose");
-
+// Database connection disabled - running in-memory or file-based
 const connectDB = async () => {
-  try {
-    await mongoose.connect(process.env.MONGO_URI);
-    console.log("MongoDB Connected");
-  } catch (error) {
-    console.error(error);
-    process.exit(1);
-  }
+  console.log("Database connection skipped (in-memory mode)");
 };
 
 module.exports = connectDB;
