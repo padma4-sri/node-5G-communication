@@ -1,4 +1,5 @@
 cKu5LMPVNVCQ0XXI
 padmasrisundarraajan_db_user
-
+# MONGO_URI=mongodb://localhost:27017/5G_communication
 mongodb+srv://padmasrisundarraajan_db_user:cKu5LMPVNVCQ0XXI@node-5g-communication.pzpsfew.mongodb.net/?appName=Node-5G-Communication
+mongodb+srv://padmasrisundarraajan_db_user:<db_password>@node-5g-communication.pzpsfew.mongodb.net/?appName=Node-5G-Communication
